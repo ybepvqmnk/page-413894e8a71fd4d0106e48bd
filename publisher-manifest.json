@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "4cc7bf81352df456c6b67a11",
+  "owner": "ybepvqmnk",
+  "repo": "page-413894e8a71fd4d0106e48bd",
+  "title": "clash verge官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "413894e8a71fd4d0106e48bd",
+      "a": "百草园(NSFWCloud)",
+      "b": "clash verge官网",
+      "entity": "百草园(NSFWCloud)",
+      "brand": "clash verge官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "85cacd4452360825da4ddada598b636f7b9c19684a5ecee969b88f37348bad30",
+      "content": {
+        "primary_entity": "百草园(NSFWCloud)",
+        "keyword1": "百草园(NSFWCloud)",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量和 3 至 20 台设备同时在线，支持流媒体解锁与 IPLC 专线游戏加速，可按月或按年灵活付费。",
+          "AI_HERO_SUBTITLE": "账号多设备订阅与套餐对比",
+          "AI_HERO_INTRO": "百草园(NSFWCloud)面向需要稳定跨境网络的用户，提供基础版、旗舰版和团队版三种订阅方案。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版配备 IPLC 专线优化游戏，团队版支持定制路由。",
+          "AI_VISUAL_TITLE": "百草园订阅方案总览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量与设备数按需选择",
+          "AI_HIGHLIGHT_3": "支持月付或年付灵活订阅",
+          "AI_FEATURES_TITLE": "订阅要点速览",
+          "AI_FEATURES_INTRO": "根据设备数量、流量需求和预算选择版本，年度付费更省。",
+          "AI_FEATURE_TITLE_1": "套餐按流量分级",
+          "AI_FEATURE_TEXT_1": "基础版月付 100GB，旗舰版 300GB，团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配场景",
+          "AI_FEATURE_TEXT_2": "基础版 3 台适合个人，旗舰版 5 台适合多设备，团队版 20 台供小团队使用。",
+          "AI_FEATURE_TITLE_3": "订阅周期可年可月",
+          "AI_FEATURE_TEXT_3": "月付起步 15 元，年付基础版 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "不同设备可搭配相应订阅客户端，按系统选择合适版本。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "按每月流量、在线设备数和加速需求选择，旗舰版适合游戏与流媒体重度使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定套餐和适配设备，再完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TEXT_2": "查看所用系统对应客户端要求，确认支持后再订阅。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照客户端文档导入订阅信息，连接节点即可使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_CLOSING_TEXT": "依据设备数和流量需求挑选版本，年付更划算，立即配置订阅体验稳定加速。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "基础版适合3台设备以内、流量需求不高的用户；旗舰版适合需要流媒体解锁和游戏加速的5台设备用户；团队版适合20台设备以内的小型团队。",
+          "AI_FAQ_QUESTION_2": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "年付方案价格更优惠，基础版年付150元，旗舰版年付350元，团队版年付850元，功能权益与月付一致，仅计费周期不同。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备同时在线。超出数量可能导致连接受限。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，在所选客户端的订阅管理功能中粘贴链接并更新，即可完成导入。具体步骤可参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下月重置，或升级至更高档套餐以获取更多流量。团队版提供1000GB月流量，适合重度使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e17d4f4879fe8693849b74f541f01a68b91be4cf65b91ae1ae332e9665e606c3",
+    "sitemap.xml": "688c5de0b0579c858851c919a261110a3c3baa6b8be7df18af4ef796ff2a0cbb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "94b4198bdc80897afed70a98f3e1b25e8b5f40404c243b1c472e7415a73740de"
+}
